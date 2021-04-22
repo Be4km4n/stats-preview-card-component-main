@@ -1,0 +1,32 @@
+
+body {
+  background-color: hsl(233, 47%, 7%);
+}
+
+.container {
+  background-color: hsl(244, 38%, 16%);
+  position: relative;
+  margin: 10%;
+}
+
+.card-information {
+  position: relative;
+  background-color: yellow;
+  height: 80%;
+  width: 50%;
+}
+
+.card-image {
+position: relative;
+background-color: green;
+height: 80%;
+width: 50%;
+left: 50%;
+}
+
+img {
+  width: 80%;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
